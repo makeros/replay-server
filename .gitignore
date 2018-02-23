@@ -1,3 +1,6 @@
+#Dont save tapes
+tapes/
+
 # Logs
 logs
 *.log
